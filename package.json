@@ -1,0 +1,23 @@
+{
+  "name": "starsearch",
+  "version": "1.0.0",
+  "description": "Job Application Database App",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/militoj/StarSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/militoj/StarSearch/issues"
+  },
+  "homepage": "https://github.com/militoj/StarSearch#readme"
+}
